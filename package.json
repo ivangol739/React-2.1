@@ -2,7 +2,7 @@
   "name": "react-2.1",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/ivangol739/React-2.1.git",
+  "homepage": "https://github.com/ivangol739/React-2.1.git/",
   "dependencies": {
     "@testing-library/jest-dom": "^6.1.4",
     "@testing-library/react": "^14.1.0",
