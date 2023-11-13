@@ -1,3 +1,5 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/jra8o60nvc2q9m2h?svg=true)](https://ci.appveyor.com/project/ivangol739/react-2-1)
+
 Портфолио с фильтрами
 ===
 
